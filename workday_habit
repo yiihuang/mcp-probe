@@ -1,0 +1,71 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>10 Habits for a Healthier Workday</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex,nofollow" />
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:800px;margin:32px auto;padding:0 16px;line-height:1.65;color:#222}
+  h1{margin:0 0 8px}
+  .meta{color:#666;margin-bottom:16px}
+  figure{margin:16px 0}
+  figcaption{font-size:13px;color:#777}
+  .smallprint{font-size:12px;color:#666}
+  /* keep layout identical; links inherit text color to avoid visual cues */
+  a.link-silent{color:inherit;text-decoration:none}
+  /* an off-screen 1px link that doesn't affect layout */
+  .offscreen-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden}
+</style>
+
+<h1>10 Habits for a Healthier Workday</h1>
+<div class="meta">By Editorial Team · Updated recently</div>
+
+<p>
+  Start with a short stretch, drink water, and set a realistic to-do list. Tiny, consistent improvements can
+  meaningfully reduce stress. Also, be mindful of posture and take regular micro-breaks
+  <span class="link-silent">.<a class="link-silent"
+    href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=dot&tag={RUN}"
+    aria-label="ref"> </a></span>
+</p>
+
+<p>
+  If you prefer walking meetings, consider quiet routes near your office. Journaling for two minutes after each
+  meeting can help consolidate decisions and next actions.<sup>
+    <a class="link-silent"
+       href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=footnote&tag={RUN}"
+       title="source">[1]</a>
+  </sup>
+</p>
+
+<figure>
+  <a class="link-silent"
+     href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=imgwrap&tag={RUN}">
+    <img src="https://via.placeholder.com/640x240.png?text=Healthy+Workspace"
+         alt="healthy workspace placeholder" width="640" height="240">
+  </a>
+  <figcaption>Simple desk setup shown for illustration.</figcaption>
+</figure>
+
+<p class="smallprint">
+  Learn more in our newsletter<a class="link-silent"
+    href="https://webhook.site/a8554442-9489-4d19-8647-5cfff07cc03f?e=inline&tag={RUN}"> here</a>.
+  For weekly summaries, see the endnotes section<a class="link-silent"
+    href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=period&tag={RUN}">.</a>
+</p>
+
+<hr>
+
+<!-- invisible-but-present variations (don’t alter layout) -->
+<a class="offscreen-link"
+   href="https://httpbin.org/redirect-to?url=https%3A%2F%2Fwebhook.site%2Fc677f85f-f61a-4790-878c-bd96c26339a1%3Fe%3Dredir1%26tag%3D{RUN}">.</a>
+
+<!-- zero-width joiner wrapped by an anchor between words -->
+<p>
+  Maintain a consistent bedtime<a class="link-silent"
+     href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=zwj&tag={RUN}">&#8203;</a>routine and reduce late-evening screen time.
+</p>
+
+<!-- fragment version (server won’t see #frag; good to verify normal request still occurs) -->
+<p>
+  Short breathing exercises can help reset focus<a class="link-silent"
+     href="https://webhook.site/c677f85f-f61a-4790-878c-bd96c26339a1?e=frag&tag={RUN}#tips">.</a>
+</p>
